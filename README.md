@@ -26,10 +26,10 @@ Part of the Responsive Web Design Certification.
 <br><br>
 <div>
   <img src="https://raw.githubusercontent.com/chanwaihan/freeCodeCamp-Personal-Portfolio-Webpage/main/personal-portfolio-webpage-example-2.jpg" alt="personal-portfolio-webpage-example-2" title="Personal Portfolio Webpage Example 2"><br>
-  <figcaption>Figure 4: freeCodeCamp's Personal Portfolio Webpage Example</figcaption>
+  <figcaption>Figure 5: freeCodeCamp's Personal Portfolio Webpage Example</figcaption>
 </div>
 <br><br>
 <div>
   <img src="https://raw.githubusercontent.com/chanwaihan/freeCodeCamp-Personal-Portfolio-Webpage/main/personal-portfolio-webpage-example-3.jpg" alt="personal-portfolio-webpage-example-3" title="Personal Portfolio Webpage Example 3"><br>
-  <figcaption>Figure 4: freeCodeCamp's Personal Portfolio Webpage Page Example</figcaption>
+  <figcaption>Figure 6: freeCodeCamp's Personal Portfolio Webpage Page Example</figcaption>
 </div>
